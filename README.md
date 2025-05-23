@@ -1,2 +1,27 @@
 # Ethernaut-Solutions
-Solutions to OpenZeppelin's Ethernaut Challenges published on my Substack's blog "The Blockchain Security Monk"
+Solutions to OpenZeppelin's Ethernaut Challenges published on my Substack's blog ["The Blockchain Security Monk"](https://substack.com/@theblockchainsecuritymonk)
+
+
+0. [Hello Ethernaut](https://theblockchainsecuritymonk.substack.com/p/level-0-hello-ethernaut)  
+1. [Fallback](https://theblockchainsecuritymonk.substack.com/p/level-1-fallback))  
+2. [Fallout](https://theblockchainsecuritymonk.substack.com/p/level-2-fallout)  
+3. [Coin Flip](https://theblockchainsecuritymonk.substack.com/p/level-3-coin-flip)  
+4. [Telephone](https://theblockchainsecuritymonk.substack.com/p/level-4-telephone)  
+5. [Token](https://theblockchainsecuritymonk.substack.com/p/level-5-token)  
+6. [Delegation](https://theblockchainsecuritymonk.substack.com/p/level-6-delegation)  
+7. [Force](https://theblockchainsecuritymonk.substack.com/p/level-7-force)  
+8. [Vault](https://theblockchainsecuritymonk.substack.com/p/level-8-vault)  
+9. [King](https://theblockchainsecuritymonk.substack.com/p/level-9-king)  
+10. [Re-entrancy](https://theblockchainsecuritymonk.substack.com/p/level-10-reentrancy)  
+11. [Elevator](https://theblockchainsecuritymonk.substack.com/p/level-11-elevator)  
+12. [Privacy](https://theblockchainsecuritymonk.substack.com/p/level-12-privacy)  
+13. [Gatekeeper One](https://theblockchainsecuritymonk.substack.com/p/level-13-gatekeeper-one)  
+14. [Gatekeeper Two](https://theblockchainsecuritymonk.substack.com/p/level-14-gatekeeper-two)  
+15. [Naught Coin](https://theblockchainsecuritymonk.substack.com/p/level-15-naught-coin)  
+16. [Preservation](https://theblockchainsecuritymonk.substack.com/p/level-16-preservation)  
+17. [Recovery](https://theblockchainsecuritymonk.substack.com/p/level-17-recovery)  
+18. [MagicNumber](https://theblockchainsecuritymonk.substack.com/p/level-18-magicnumber)  
+19. [Alien Codex](https://theblockchainsecuritymonk.substack.com/p/level-19-alien-codex)  
+20. [Denial](https://theblockchainsecuritymonk.substack.com/p/level-20-denial)  
+21. [Shop](https://theblockchainsecuritymonk.substack.com/p/level-21-shop)
+
